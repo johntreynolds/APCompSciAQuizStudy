@@ -6,7 +6,7 @@ public class Main
 		public static void main(String[] args)
 			{
 				// Matrix Searching Quiz 2/20
-				MatrixFinder(5, 4, 4);
+				MatrixFinder(5, 4, 6);
 
 			}
 
@@ -50,7 +50,7 @@ public class Main
 							}
 					}
 				System.out.println("The number " + n + " appeared " + nTimes + " times!");
-				System.out.println(nTimesSum);
+				System.out.println("The sum of all of the appearances is " + nTimesSum);
 			}
 
 	}
