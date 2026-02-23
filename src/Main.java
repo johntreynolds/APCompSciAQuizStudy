@@ -7,9 +7,11 @@ public class Main
 			{
 				// Matrix Searching Quiz 2/20
 				MatrixFinder(5, 4, 6);
-
+				
+				
 			}
 
+		// Matrix Searching Quiz 2/20
 		public static void MatrixFinder(int n, int rowNumber, int colNumber)
 			{
 				// This program returns the number of times n shows up in the 2d array. N is a
@@ -52,5 +54,6 @@ public class Main
 				System.out.println("The number " + n + " appeared " + nTimes + " times!");
 				System.out.println("The sum of all of the appearances is " + nTimesSum);
 			}
-
+		
+		//Constructors Quiz
 	}
